@@ -11,6 +11,9 @@ namespace ConsoleApp5
         static void Main(string[] args)
         {
             Console.WriteLine();
+
+            Console.WriteLine("Ok");
+            Console.WriteLine();
         }
     }
 }
